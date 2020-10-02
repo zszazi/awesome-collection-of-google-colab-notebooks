@@ -1,5 +1,5 @@
 ![img](COLAB-LOGO.jpg "Awesome Colab")
-# An Awesome collection of Google Colab Repositories
+# Awesome collection of Google Colab Repositories
 
 ## Contents:
  
