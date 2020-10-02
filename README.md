@@ -1,13 +1,9 @@
-[![img](COLAB-LOGO.jpg "Awesome Colab")](#table)
+![img](COLAB-LOGO.jpg "Awesome Colab")
 # An Awesome collection of Google Colab Repositories
 
-<div align="center">
-<a name="table"></a><h2>Contents:</h2>
- </div>
+## Contents:
  
-<div align="center">
-<a name="table"></a><h2>Contributions:</h2>
- </div>
+## Contributions:
  
 Please COLLABORATE in building a collection of google COLAB notebooks
 
