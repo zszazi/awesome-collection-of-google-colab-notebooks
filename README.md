@@ -4,6 +4,10 @@
 ## Contents:
  
 ## Contributions:
+- Code Snippets
+- Machine Learning
+- Render Farm
+- 
  
 Please COLLABORATE in building a collection of google COLAB notebooks
 
